@@ -38,7 +38,7 @@ A simple, stylish, and functional To-Do List app built with HTML, CSS, and JavaS
 1. **Add a Task**
     -  Enter a task in the input field and click `Add Task`. The task will be displayed below with the time of creation.
 2. **Edit or Save**
-    - Click the "Edit" button to make changes to a task. Once done, click `Save` to finalize the changes.
+    - Click the `Edit` button to make changes to a task. Once done, click `Save` to finalize the changes.
 
 3. **Mark as Complete**
     - Check the box next to a task to mark it as complete. The task will be grayed out with a strikethrough text effect.
